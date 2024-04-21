@@ -56,7 +56,6 @@ The contract incorporates ERC20 functionalities for ticket management. This allo
 
 For further details on contract usage and functionalities, refer to the documentation or explore the codebase.
 
-```
+## Contract Deployed
 
-This README provides a concise overview of the EventPass Platform on Stylus Arbitrum Sepolia, its deployment process on the Stylus testnet using Arbitrum Sepolia, and its integration with ERC20 for ticket management.
-```
+- [Arbitrum Sepolia](https://sepolia.arbiscan.io/address/0x9c774Ba3c07D9526c0a658D1e6FE001D0E9fF1B7)
